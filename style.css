@@ -1,0 +1,39 @@
+html {
+  background-color: aquamarine;
+}
+
+body {
+  font-family: sans-serif;
+  width: 40rem;
+  margin: auto;
+  background-color: aliceblue;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 400px;
+}
+
+.obrazky {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.prostredek {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+  }
+
+a :hover {
+  color: rgb(255, 0, 200);
+}
